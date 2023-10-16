@@ -1,1 +1,4 @@
 node_modules
+.DStore
+yarn.lock
+package.lock
